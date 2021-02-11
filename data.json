@@ -1,0 +1,1094 @@
+[[
+  {
+    "title": "Andreas Antonopoulos",
+    "char": "A",
+    "type": "char",
+    "about": "Author of 'Mastering Bitcoin: Programming the Open Blockchain' and 'Mastering Ethereum: Building Smart Contracts and Dapps'.",
+    "link": "https://twitter.com/aantonop"
+  },
+  {
+    "title": "Brian Amstrong",
+    "char": "B",
+    "type": "char",
+    "about": "Founder of @coinbase",
+    "link": "https://twitter.com/brian_armstrong"
+  },
+  {
+    "title": "Mark Cuban",
+    "char": "C",
+    "type": "char",
+    "about": "Entrepreneur, Shark tank, Investor and now #NFT seller",
+    "link": "https://twitter.com/mcuban"
+  },
+  {
+    "title": "Peter Smith",
+    "char": "D",
+    "type": "char",
+    "about": "Founder of @blockchain",
+    "link": "https://twitter.com/OneMorePeter"
+  },
+  {
+    "title": "Elon Musk",
+    "char": "E",
+    "type": "char",
+    "about": "Founder of @dogecoin, @tesla and buyer of $BTC",
+    "link": "https://twitter.com/elonmusk"
+  },
+  {
+    "title": "Jed McCaleb",
+    "char": "F",
+    "type": "char",
+    "about": "Founder of @StellarOrg $XLM and first bitcoin exchange @MtGox",
+    "link": "https://twitter.com/JedMcCaleb"
+  },
+  {
+    "title": "Gavin Wood",
+    "char": "G",
+    "type": "char",
+    "about": "Founder of @Polkadot @kusamanetwork @ethereum @ParityTech and @web3foundation",
+    "link": "https://twitter.com/gavofyork"
+  },
+  {
+    "title": "Ben Horowitz",
+    "char": "H",
+    "type": "char",
+    "about": "Founder of @a16z and Author of The Hard Thing About Hard Things",
+    "link": "https://twitter.com/bhorowitz"
+  },
+  {
+    "title": "Barry Silbert",
+    "char": "I",
+    "type": "char",
+    "about": "Founder of @Grayscale",
+    "link": "https://twitter.com/BarrySilbert"
+  },
+  {
+    "title": "Joseph Lubin",
+    "char": "J",
+    "type": "char",
+    "about": "Co-founder of @ethereum & Founder of @ConsenSys",
+    "link": "https://twitter.com/ethereumJoseph"
+  },
+  {
+    "title": "Charles Hoskinson",
+    "char": "K",
+    "type": "char",
+    "about": "Co-founder of @ethereum & Founder of @CardanoStiftung",
+    "link": "https://twitter.com/IOHK_Charles"
+  },
+  {
+    "title": "Charlie Lee",
+    "char": "L",
+    "type": "char",
+    "about": "Creator of @litecoin $LTC",
+    "link": "https://twitter.com/SatoshiLite"
+  },
+  {
+    "title": "Marc Andreessen",
+    "char": "M",
+    "type": "char",
+    "about": "Founder of @a16z",
+    "link": "https://twitter.com/pmarca"
+  },
+  {
+    "title": "Naval",
+    "char": "N",
+    "type": "char",
+    "about": "Investor, multiple blockchain projects",
+    "link": "https://twitter.com/naval"
+  },
+  {
+    "title": "Peter Thiel",
+    "char": "O",
+    "type": "char",
+    "about": "Founder of @PayPal",
+    "link": "https://twitter.com/peterthiel"
+  },
+  {
+    "title": "Ari Paul",
+    "char": "P",
+    "type": "char",
+    "about": "CIO/Founder of BlockTower Capital.",
+    "link": "https://twitter.com/AriDavidPaul"
+  },
+  {
+    "title": "Juan Benet",
+    "char": "Q",
+    "type": "char",
+    "about": "Founder of @IPFS @Filecoin and @protocollabs",
+    "link": "https://twitter.com/juanbenet"
+  },
+  {
+    "title": "Roger ver",
+    "char": "R",
+    "type": "char",
+    "about": "World's first Investor in Bitcoin startups including http://Bitcoin.com, http://Blockchain.com, Ripple, http://Z.cash, BitPay, Kraken, http://Purse.io & more! Interested in Voluntaryism",
+    "link": "https://twitter.com/rogerkver"
+  },
+  {
+    "title": "Balaji Srinivasan",
+    "char": "S",
+    "type": "char",
+    "about": "Immutable money, infinite frontier, eternal life. #Bitcoin",
+    "link": "https://twitter.com/balajis"
+  },
+  {
+    "title": "Tim Draper",
+    "char": "T",
+    "type": "char",
+    "about": "Founder of @DFJvc, @drapervc, @Draper_U, @IYS_Org",
+    "link": "https://twitter.com/TimDraper"
+  },
+  {
+    "title": "Jihan Wu",
+    "char": "U",
+    "type": "char",
+    "about": "Co-founder of @BITMAINtech",
+    "link": "https://twitter.com/JihanWu"
+  },
+  {
+    "title": "Vitalik Buterine",
+    "char": "V",
+    "type": "char",
+    "about": "Founder of @Ethereum",
+    "link": "https://twitter.com/VitalikButerin"
+  },
+  {
+    "title": "Winklevoss bros",
+    "char": "W",
+    "type": "char",
+    "about": "@cameron and @tyler are founders of @Gemini",
+    "link": "https://twitter.com/gemini"
+  },
+  {
+    "title": "John McAfee",
+    "char": "X",
+    "type": "char",
+    "about": "Founder of McAfee Anti-virus",
+    "link": "https://twitter.com/officialmcafee"
+  },
+  {
+    "title": "Andre Cronje",
+    "char": "Y",
+    "type": "char",
+    "about": "Founder of @iearnfinance",
+    "link": "https://twitter.com/AndreCronjeTech"
+  },
+  {
+    "title": "Changpeng Zhao",
+    "char": "Z",
+    "type": "char",
+    "about": "Founder of @binance. $BNB #BSC #Binance",
+    "link": "https://twitter.com/cz_binance"
+  },
+  {
+    "title": "Andreas Antonopoulos",
+    "char": "a",
+    "type": "none",
+    "about": "Founder & CEO",
+    "link": ""
+  },
+  {
+    "title": "Brian Amstrong",
+    "char": "b",
+    "type": "none",
+    "about": "Founder & CEO",
+    "link": ""
+  },
+  {
+    "title": "Mark Cuban",
+    "char": "c",
+    "type": "none",
+    "about": "Founder & CEO",
+    "link": ""
+  },
+  {
+    "title": "Peter Smith",
+    "char": "d",
+    "type": "none",
+    "about": "Founder & CEO",
+    "link": ""
+  },
+  {
+    "title": "Elon Musk",
+    "char": "e",
+    "type": "none",
+    "about": "Founder & CEO",
+    "link": ""
+  },
+  {
+    "title": "Jed McCaleb",
+    "char": "f",
+    "type": "none",
+    "about": "Founder & CEO",
+    "link": ""
+  },
+  {
+    "title": "Gavin Wood",
+    "char": "g",
+    "type": "none",
+    "about": "Founder & CEO",
+    "link": ""
+  },
+  {
+    "title": "Ben Horowitz",
+    "char": "h",
+    "type": "none",
+    "about": "Founder & CEO",
+    "link": ""
+  },
+  {
+    "title": "Barry Silbert",
+    "char": "i",
+    "type": "none",
+    "about": "Founder & CEO",
+    "link": ""
+  },
+  {
+    "title": "Joseph Lubin",
+    "char": "j",
+    "type": "none",
+    "about": "Founder & CEO",
+    "link": ""
+  },
+  {
+    "title": "Charles Hoskinson",
+    "char": "k",
+    "type": "none",
+    "about": "Founder & CEO",
+    "link": ""
+  },
+  {
+    "title": "Charlie Lee",
+    "char": "l",
+    "type": "none",
+    "about": "Founder & CEO",
+    "link": ""
+  },
+  {
+    "title": "Marc Andreessen",
+    "char": "m",
+    "type": "none",
+    "about": "Founder & CEO",
+    "link": ""
+  },
+  {
+    "title": "Naval",
+    "char": "n",
+    "type": "none",
+    "about": "Founder & CEO",
+    "link": ""
+  },
+  {
+    "title": "Peter Thiel",
+    "char": "o",
+    "type": "none",
+    "about": "Founder & CEO",
+    "link": ""
+  },
+  {
+    "title": "Ari Paul",
+    "char": "p",
+    "type": "none",
+    "about": "Founder & CEO",
+    "link": ""
+  },
+  {
+    "title": "Juan Benet",
+    "char": "q",
+    "type": "none",
+    "about": "Founder & CEO",
+    "link": ""
+  },
+  {
+    "title": "Roger ver",
+    "char": "r",
+    "type": "none",
+    "about": "Founder & CEO",
+    "link": ""
+  },
+  {
+    "title": "Balaji Srinivasan",
+    "char": "s",
+    "type": "none",
+    "about": "Founder & CEO",
+    "link": ""
+  },
+  {
+    "title": "Tim Draper",
+    "char": "t",
+    "type": "none",
+    "about": "Founder & CEO",
+    "link": ""
+  },
+  {
+    "title": "Jihan Wu",
+    "char": "u",
+    "type": "none",
+    "about": "Founder & CEO",
+    "link": ""
+  },
+  {
+    "title": "Vitalik Buterine",
+    "char": "v",
+    "type": "none",
+    "about": "Founder & CEO",
+    "link": ""
+  },
+  {
+    "title": "Winklevoss bros",
+    "char": "w",
+    "type": "none",
+    "about": "Founder & CEO",
+    "link": ""
+  },
+  {
+    "title": "John McAfee",
+    "char": "x",
+    "type": "none",
+    "about": "Founder & CEO",
+    "link": ""
+  },
+  {
+    "title": "Andre Cronje",
+    "char": "y",
+    "type": "none",
+    "about": "Founder & CEO",
+    "link": ""
+  },
+  {
+    "title": "Changpeng Zhao",
+    "char": "z",
+    "type": "none",
+    "about": "Founder & CEO",
+    "link": ""
+  },
+  {
+    "title": "Michael Novogratz",
+    "char": 1,
+    "type": "number",
+    "about": "Early Bitcoin investor",
+    "link": "https://twitter.com/novogratz"
+  },
+  {
+    "title": "Pompliano",
+    "char": 2,
+    "type": "number",
+    "about": "He short banks and long Bitcoin everyday",
+    "link": "https://twitter.com/APompliano"
+  },
+  {
+    "title": "Whale Shark Pro",
+    "char": 3,
+    "type": "number",
+    "about": "Founder of $WHALE and @E1337_pro",
+    "link": "https://twitter.com/whaleshark_pro"
+  },
+  {
+    "title": "Chris Dixon",
+    "char": 4,
+    "type": "number",
+    "about": "Programming, philosophy, history, internet, startups, investing.",
+    "link": "https://twitter.com/cdixon"
+  },
+  {
+    "title": "Joseph Poon",
+    "char": 5,
+    "type": "number",
+    "about": "Ethereum, Plasma, Lightning Network",
+    "link": "https://twitter.com/jcp"
+  },
+  {
+    "title": "Justin Sun",
+    "char": 6,
+    "type": "number",
+    "about": "Founder of @Tronfoundation",
+    "link": "https://twitter.com/justinsuntron"
+  },
+  {
+    "title": "Erik Voorhees",
+    "char": 7,
+    "type": "number",
+    "about": "Founder of @ShapeShift_io",
+    "link": "https://twitter.com/ErikVoorhees"
+  },
+  {
+    "title": "Jameson Lopp",
+    "char": 8,
+    "type": "number",
+    "about": "Cypherpunk · Co-founder & CTO @CasaHODL",
+    "link": "https://twitter.com/lopp"
+  },
+  {
+    "title": "Adam Back",
+    "char": 9,
+    "type": "number",
+    "about": "cypherpunk, cryptographer, privacy/ecash, inventor hashcash",
+    "link": "https://twitter.com/adam3us"
+  },
+  {
+    "title": "Nick Szabo",
+    "char": 0,
+    "type": "number",
+    "about": "Blockchain, cryptocurrency, and smart contracts pioneer",
+    "link": "https://twitter.com/NickSzabo4"
+  },
+  {
+    "title": "CryptoFinally",
+    "char": "!",
+    "type": "symbol",
+    "about": "Crypto Marketing & Strategic Advisor, NFT Selfies",
+    "link": "https://twitter.com/CryptoFinally"
+  },
+  {
+    "title": "Matty",
+    "char": "@",
+    "type": "symbol",
+    "about": "Obsessed with NFT",
+    "link": "https://twitter.com/opensea"
+  },
+  {
+    "title": "Mansa Obi",
+    "char": "#",
+    "type": "symbol",
+    "about": "Nifty man can. I create art and mint #NFTs",
+    "link": "https://twitter.com/NFTMansa"
+  },
+  {
+    "title": "BITCOIN",
+    "char": "$",
+    "type": "symbol",
+    "about": "First Crypto currency.",
+    "link": "https://bitcointalk.org/"
+  },
+  {
+    "title": "Patrick James",
+    "char": "%",
+    "type": "symbol",
+    "about": "Digital Art Collector @ rarible",
+    "link": "https://app.rarible.com/patrickjames/collectibles"
+  },
+  {
+    "title": "Wong Joon Ian",
+    "char": "^",
+    "type": "symbol",
+    "about": "Currently: @acjrnetwork @seedclubhq @rally_io $JOON #PersonalTalkens. Was at @CoinDesk @Qz",
+    "link": "https://twitter.com/joonian"
+  },
+  {
+    "title": "Tim Sweeney",
+    "char": "&",
+    "type": "symbol",
+    "about": "Founder & CEO",
+    "link": "https://twitter.com/TimSweeneyEpic"
+  },
+  {
+    "title": "Alex Atallah",
+    "char": "*",
+    "type": "symbol",
+    "about": "Co-founder & CTO of @OpenSea",
+    "link": "https://twitter.com/xanderatallah"
+  },
+  {
+    "title": "Roham",
+    "char": "(",
+    "type": "symbol",
+    "about": "Co-Founder @DapperLabs @AxiomZenTeam @NBA_TopShot @Flow_Blockchain @CryptoKitties @ZenHubHQ @routific",
+    "link": "https://twitter.com/rohamg"
+  },
+  {
+    "title": "Sebastien",
+    "char": ")",
+    "type": "symbol",
+    "about": "Co-Founder & COO of @TheSandboxGame decentralized gaming platform http://sandbox.game.",
+    "link": "https://twitter.com/borgetsebastien"
+  },
+  {
+    "title": "Jordan Lyall",
+    "char": "-",
+    "type": "symbol",
+    "about": "Building open finance at @ConsenSys Chief $Meme Officer at @dontbuymeme",
+    "link": "https://twitter.com/JordanLyall"
+  },
+  {
+    "title": "Vladislav Ginzburg",
+    "char": "=",
+    "type": "symbol",
+    "about": "CEO at Blockparty",
+    "link": "https://twitter.com/vlad_ginzburg"
+  },
+  {
+    "title": "Mr Kawdy",
+    "char": "+",
+    "type": "symbol",
+    "about": "Co-founder - $LOOT $CHONK",
+    "link": "https://twitter.com/MrKawdy"
+  },
+  {
+    "title": "Lethabo",
+    "char": "[",
+    "type": "symbol",
+    "about": "Digital Artist | http://superrare.co/lethabo",
+    "link": "https://twitter.com/lethabohuma"
+  },
+  {
+    "title": "Carlos Marcial",
+    "char": "]",
+    "type": "symbol",
+    "about": "A post post-modern digital artist.",
+    "link": "https://twitter.com/carlosmarcialt"
+  },
+  {
+    "title": "Mike Winkelmann",
+    "char": "{",
+    "type": "symbol",
+    "about": "design shit.  / 13+ years of everydays.  http://beeple-crap.com",
+    "link": "https://twitter.com/beeple/"
+  },
+  {
+    "title": "ZJ",
+    "char": "}",
+    "type": "symbol",
+    "about": "NFT Artist",
+    "link": "https://twitter.com/ZOLAJESUS"
+  },
+  {
+    "title": "OPENSEA",
+    "char": "|",
+    "type": "symbol",
+    "about": "A marketplace for the decentralized web. Buy, sell, and discover rare digital assets.",
+    "link": "https://twitter.com/opensea"
+  },
+  {
+    "title": "WAX",
+    "char": "\\",
+    "type": "symbol",
+    "about": "NFT Blockchain $WAXP $WAXE $WAXG",
+    "link": "https://twitter.com/WAX_io"
+  },
+  {
+    "title": "CRYPTOKITTES",
+    "char": ";",
+    "type": "symbol",
+    "about": "Collect and breed digital cats with CryptoKitties.",
+    "link": "https://twitter.com/CryptoKitties"
+  },
+  {
+    "title": "CryptoLaurianna",
+    "char": ":",
+    "type": "symbol",
+    "about": "Founder & CEO",
+    "link": "https://twitter.com/CryptoLaurianna"
+  },
+  {
+    "title": "Heresy",
+    "char": "",
+    "type": "symbol",
+    "about": "Crypto NFT Artist",
+    "link": "https://twitter.com/st_heresypriv"
+  },
+  {
+    "title": "Jose Delbo",
+    "char": "<",
+    "type": "symbol",
+    "about": "Professional comic book artist since the age of 16 and now Crypto Artist!",
+    "link": "https://twitter.com/Jose_Delbo"
+  },
+  {
+    "title": "Elora",
+    "char": ">",
+    "type": "symbol",
+    "about": "NFT Artist",
+    "link": "https://twitter.com/Owakita_"
+  },
+  {
+    "title": "Soulja Boy",
+    "char": ".",
+    "type": "symbol",
+    "about": "Artist",
+    "link": "https://twitter.com/souljaboy"
+  },
+  {
+    "title": "Anna Zhilyaeva",
+    "char": ",",
+    "type": "symbol",
+    "about": "Virtual reality artist, Speaker https://superrare.co/annadreambrush",
+    "link": "https://twitter.com/AnnaDreamBrush"
+  },
+  {
+    "title": "Piers Kicks",
+    "char": "/",
+    "type": "symbol",
+    "about": "Tweeting about where crypto meets the Metaverse. You can't catch the wave if you're not in the water. Gaming/NFTs \n@Delphi_Digital",
+    "link": "https://twitter.com/pierskicks"
+  },
+  {
+    "title": "Satoshi Nakamoto",
+    "char": "?",
+    "type": "symbol",
+    "about": "No one knows who is he",
+    "link": "https://bitcointalk.org/"
+  },
+  {
+    "title": "Sam Williams",
+    "char": "~",
+    "type": "symbol",
+    "about": "Founder @ Arweave. Hacker, CEO, PhD drop-out.",
+    "link": "https://twitter.com/samecwilliams"
+  },
+  {
+    "title": "Sam Williams",
+    "char": "`",
+    "type": "symbol",
+    "about": "Founder & CEO",
+    "link": "https://twitter.com/samecwilliams"
+  },
+  {
+    "title": "Sam Williams",
+    "char": "`",
+    "type": "symbol",
+    "about": "Founder & CEO",
+    "link": "https://twitter.com/samecwilliams"
+  },
+  {
+    "title": "@opensea",
+    "char": "opensea",
+    "type": "ligature",
+    "about": "A marketplace for the decentralized web. Buy, sell, and discover rare digital assets.",
+    "link": "https://twitter.com/@opensea"
+  },
+  {
+    "title": "@NFTbank_ai",
+    "char": "nftbank_ai",
+    "type": "ligature",
+    "about": "http://NFTBank.ai - The ultimate hub of NFT finance, portfolio management & analytics backed by \n@hashed_official",
+    "link": "https://twitter.com/@NFTbank_ai"
+  },
+  {
+    "title": "@GodsUnchained",
+    "char": "godsunchained",
+    "type": "ligature",
+    "about": "The epic Trading Card Game by @immutable using Ethereum. Play to earn, build & trade with true NFT ownership.",
+    "link": "https://twitter.com/@GodsUnchained"
+  },
+  {
+    "title": "@nonfungibles",
+    "char": "nonfungibles",
+    "type": "ligature",
+    "about": "The world's largest #NFT & #nonfungible markets data platform",
+    "link": "https://twitter.com/@nonfungibles"
+  },
+  {
+    "title": "@Enjin",
+    "char": "enjin",
+    "type": "ligature",
+    "about": "Products that make it easy for everyone to develop, trade, monetize, and market with blockchain. $ENJ",
+    "link": "https://twitter.com/@Enjin"
+  },
+  {
+    "title": "@decentraland",
+    "char": "decentraland",
+    "type": "ligature",
+    "about": "Explore an incredible virtual game world, created and owned by its users. $MANA",
+    "link": "https://twitter.com/@decentraland"
+  },
+  {
+    "title": "@Ultra_io",
+    "char": "ultra_io",
+    "type": "ligature",
+    "about": "Next Generation PC Game distribution platform powered by Blockchain. $UOS",
+    "link": "https://twitter.com/@Ultra_io"
+  },
+  {
+    "title": "@TheSandboxGame",
+    "char": "thesandboxgame",
+    "type": "ligature",
+    "about": "The Sandbox is a Gaming Virtual World on Ethereum blockchain, with #NFTs and $SAND tokens.",
+    "link": "https://twitter.com/@TheSandboxGame"
+  },
+  {
+    "title": "@WAX_io",
+    "char": "wax_io",
+    "type": "ligature",
+    "about": "Get your free WAX Cloud Wallet, collect #NFTs & log into dApps on the WAX Blockchain in just two clicks. $WAXP $WAXE $WAXG",
+    "link": "https://twitter.com/@WAX_io"
+  },
+  {
+    "title": "@redfoxlabs_io",
+    "char": "redfoxlabs_io",
+    "type": "ligature",
+    "about": "Vietnam based venture builder that creates internet companies for the emerging markets of Southeast Asia. $RFOX",
+    "link": "https://twitter.com/@redfoxlabs_io"
+  },
+  {
+    "title": "@WhaleShark_Pro",
+    "char": "whaleshark_pro",
+    "type": "ligature",
+    "about": "I am the collector of all things Bleeding Edge and Scarce. I like Beautiful Things. $WHALE",
+    "link": "https://twitter.com/@WhaleShark_Pro"
+  },
+  {
+    "title": "@rariblecom",
+    "char": "rariblecom",
+    "type": "ligature",
+    "about": "The first community-owned #NFT marketplace. Create, sell or collect digital items secured with #blockchain. $RARI",
+    "link": "https://twitter.com/@rariblecom"
+  },
+  {
+    "title": "@aavegotchi",
+    "char": "aavegotchi",
+    "type": "ligature",
+    "about": "DeFi-staked Crypto Collectibles $GHST",
+    "link": "https://twitter.com/@aavegotchi"
+  },
+  {
+    "title": "@DontBuyMeme",
+    "char": "dontbuymeme",
+    "type": "ligature",
+    "about": "Meme mashes up the most exciting innovations in DeFi and crypto collectibles. Put your $MEME to work by farming exclusive NFTs. #dontbuymeme #nftmining",
+    "link": "https://twitter.com/@DontBuyMeme"
+  },
+  {
+    "title": "@terra_virtua",
+    "char": "terra_virtua",
+    "type": "ligature",
+    "about": "A New World of Digital Collectibles. On Web & App! http://bit.ly/2KwWVWE",
+    "link": "https://twitter.com/@terra_virtua"
+  },
+  {
+    "title": "@dego_finance",
+    "char": "dego_finance",
+    "type": "ligature",
+    "about": "Decentralized Finance with Sustainability $DEGO",
+    "link": "https://twitter.com/@dego_finance"
+  },
+  {
+    "title": "@unilayer_",
+    "char": "unilayer_",
+    "type": "ligature",
+    "about": "$LAYER Unilayer is a new generation pro trading platform built on top of Uniswap that provides the tools for professional-level trading",
+    "link": "https://twitter.com/@unilayer_"
+  },
+  {
+    "title": "@ShroomFinance",
+    "char": "shroomfinance",
+    "type": "ligature",
+    "about": "DeFi Protocol for in-game assets trading and minting. #NFT 👾🕹️ Yield Farming with $SHROOM 👨‍🌾. Trading with @GameswapDEX 🎮",
+    "link": "https://twitter.com/@ShroomFinance"
+  },
+  {
+    "title": "@abyssfinance",
+    "char": "abyssfinance",
+    "type": "ligature",
+    "about": "We built the world's first #DAICO. We build #DeFi and CeFi services for the New World.",
+    "link": "https://twitter.com/@abyssfinance"
+  },
+  {
+    "title": "@nft_protocol",
+    "char": "nft_protocol",
+    "type": "ligature",
+    "about": "Powering NFT economies • An open decentralized protocol for non-fungible tokens. $NFT",
+    "link": "https://twitter.com/@nft_protocol"
+  },
+  {
+    "title": "@seen_haus",
+    "char": "seen_haus",
+    "type": "ligature",
+    "about": "tangible - digital - auction house of the future - $seen",
+    "link": "https://twitter.com/@seen_haus"
+  },
+  {
+    "title": "@polyientgames",
+    "char": "polyientgames",
+    "type": "ligature",
+    "about": "Investing in the future of NFTs and DeFi. @PolyientDEX and @ApeInFinance have arrived. $PGU $PGFK",
+    "link": "https://twitter.com/@polyientgames"
+  },
+  {
+    "title": "@REVV_Token",
+    "char": "revv_token",
+    "type": "ligature",
+    "about": "The $REVV token is an ERC-20 utility token that acts as the main currency for a number of game dApps developed by Animoca Brands.",
+    "link": "https://twitter.com/@REVV_Token"
+  },
+  {
+    "title": "@decentralgames",
+    "char": "decentralgames",
+    "type": "ligature",
+    "about": "Social 3D Metaverse Casino with a DAO-Governed Treasury $DG",
+    "link": "https://twitter.com/@decentralgames"
+  },
+  {
+    "title": "@DIGITALAX_",
+    "char": "digitalax_",
+    "type": "ligature",
+    "about": "Building the first Digital Fashion Operating System.",
+    "link": "https://twitter.com/@DIGITALAX_"
+  },
+  {
+    "title": "@dokidokifinance",
+    "char": "dokidokifinance",
+    "type": "ligature",
+    "about": "DeGacha - A Gamified Marketplace for NFTs & Digital Collectibles.",
+    "link": "https://twitter.com/@dokidokifinance"
+  },
+  {
+    "title": "@anrkeyx",
+    "char": "anrkeyx",
+    "type": "ligature",
+    "about": "Purchase, Play, Stake NFTs and Compete in the Future of Defi Based Gaming",
+    "link": "https://twitter.com/@anrkeyx"
+  },
+  {
+    "title": "@ethereansOS",
+    "char": "ethereansos",
+    "type": "ligature",
+    "about": "An OS on top of Ethereum powered by On-Chain Organizations (DFOs), Interoperable Tokens (ITEMs) and a Responsable DeFi Infrastructure (UniFi).",
+    "link": "https://twitter.com/@ethereansOS"
+  },
+  {
+    "title": "@TheHashmasks",
+    "char": "thehashmasks",
+    "type": "ligature",
+    "about": "The next generation of digital art collectibles.",
+    "link": "https://twitter.com/@TheHashmasks"
+  },
+  {
+    "title": "@ethverse",
+    "char": "ethverse",
+    "type": "ligature",
+    "about": "ETHVerse is a virtual world owned by its users powered by Ethereum, build on top of Minecraft.",
+    "link": "https://twitter.com/@ethverse"
+  },
+  {
+    "title": "@VibeHubVR",
+    "char": "vibehubvr",
+    "type": "ligature",
+    "about": "Creating next-gen NFTs & developing new standards for gaming on the blockchain. Built for users & developers on layer 2 solution #VIBENet $vibe",
+    "link": "https://twitter.com/@VibeHubVR"
+  },
+  {
+    "title": "@UtilityZero",
+    "char": "utilityzero",
+    "type": "ligature",
+    "about": "Zero Utility Token Official Twitter $ZUT",
+    "link": "https://twitter.com/@UtilityZero"
+  },
+  {
+    "title": "@Node_Runners",
+    "char": "node_runners",
+    "type": "ligature",
+    "about": "It's 2074, and we are ready for the fight against corporate autocracy. Join our movement now. $NDR #NFT",
+    "link": "https://twitter.com/@Node_Runners"
+  },
+  {
+    "title": "@dontbuyrope",
+    "char": "dontbuyrope",
+    "type": "ligature",
+    "about": "we’re here if you wanna talk anon. $ROPE",
+    "link": "https://twitter.com/@dontbuyrope"
+  },
+  {
+    "title": "@SignatureChain",
+    "char": "signaturechain",
+    "type": "ligature",
+    "about": "$SIGN uses #WavesPlatform's power to ensure the existence, authenticity and integrity of digital files.",
+    "link": "https://twitter.com/@SignatureChain"
+  },
+  {
+    "title": "@phantasmachain",
+    "char": "phantasmachain",
+    "type": "ligature",
+    "about": "NFTs - Gaming - dApps. We Connect, You Create & Control $SOUL",
+    "link": "https://twitter.com/@phantasmachain"
+  },
+  {
+    "title": "@niftygotchi",
+    "char": "niftygotchi",
+    "type": "later",
+    "about": "$TME $TMC $TAMAG #nft",
+    "link": "https://twitter.com/@niftygotchi"
+  },
+  {
+    "title": "@bonktoken",
+    "char": "bonktoken",
+    "type": "ligature",
+    "about": "BONK is proof of art & NFTs combined with a decentralized volume dependent staking protocol. $BONK is a community cryptocurrency project focusing on creating NFTs.",
+    "link": "https://twitter.com/@bonktoken"
+  },
+  {
+    "title": "@nftx_",
+    "char": "nftx_",
+    "type": "ligature",
+    "about": "NFT index funds on Ethereum $NFTX",
+    "link": "https://twitter.com/@nftx_"
+  },
+  {
+    "title": "@bakery_swap",
+    "char": "bakery_swap",
+    "type": "ligature",
+    "about": "BakerySwap is the 1st AMM+NFT exchange on Binance Smart Chain.",
+    "link": "https://twitter.com/@bakery_swap"
+  },
+  {
+    "title": "@juicynfts",
+    "char": "juicynfts",
+    "type": "ligature",
+    "about": "Tracking the NFT industry. Follow us for the latest NFT updates, metrics and news.",
+    "link": "https://twitter.com/@juicynfts"
+  },
+  {
+    "title": "@Exeedme",
+    "char": "exeedme",
+    "type": "ligature",
+    "about": "The ultimate revenue stream for Gamers.🎮🕹 Powered by NFTs and DeFi. Built on Polkadot.",
+    "link": "https://twitter.com/@Exeedme"
+  },
+  {
+    "title": "@PlayToEarnGames",
+    "char": "playtoearngames",
+    "type": "ligature",
+    "about": "Featuring Play-To-Earn blockchain games where you can earn crypto while gaming. $ENJ #Enjin #NFT",
+    "link": "https://twitter.com/@PlayToEarnGames"
+  },
+  {
+    "title": "@bounce_finance",
+    "char": "bounce_finance",
+    "type": "ligature",
+    "about": "#DeFi Auctions & Settlements | #NFT Marketplace $AUCTION",
+    "link": "https://twitter.com/@bounce_finance"
+  },
+  {
+    "title": "@BondlyFinance",
+    "char": "bondlyfinance",
+    "type": "ligature",
+    "about": "Interoperable, transparent and portable swap designed to make your wallet into your own #crypto and #NFT marketplace.",
+    "link": "https://twitter.com/@BondlyFinance"
+  },
+  {
+    "title": "@ghostmarketio",
+    "char": "ghostmarketio",
+    "type": "ligature",
+    "about": "The first cross-chain #NFT marketplace. Buy, sell, create and discover rare digital collectibles.",
+    "link": "https://twitter.com/@ghostmarketio"
+  },
+  {
+    "title": "@kalamint_io",
+    "char": "kalamint_io",
+    "type": "ligature",
+    "about": "The first NFT marketplace on Tezos",
+    "link": "https://twitter.com/@kalamint_io"
+  },
+  {
+    "title": "@KodaDot",
+    "char": "kodadot",
+    "type": "ligature",
+    "about": "NFT market @kusamanetwork & @polkadot para-chains",
+    "link": "https://twitter.com/@KodaDot"
+  },
+  {
+    "title": "@AvaStarsNFT",
+    "char": "avastarsnft",
+    "type": "ligature",
+    "about": "Generative Art Stored Entirely On The Blockchain.  Second Generation NFT allowing #Trueownership of Digital Art.",
+    "link": "https://twitter.com/@AvaStarsNFT"
+  },
+  {
+    "title": "@MuseumOfNFTArt",
+    "char": "museumofnftart",
+    "type": "ligature",
+    "about": "M0NA is a virtual museum, incubator and much more, located in @cryptovoxels + @decentraland , showcasing NFT collectables and crypto art. Curated by @Ioannis_AG",
+    "link": "https://twitter.com/@MuseumOfNFTArt"
+  },
+  {
+    "title": "@NFTKred",
+    "char": "nftkred",
+    "type": "ligature",
+    "about": "Create actionable Non-Fungible Tokens with your digital assets",
+    "link": "https://twitter.com/@NFTKred"
+  },
+  {
+    "title": "@MagNft",
+    "char": "magnft",
+    "type": "ligature",
+    "about": "Digital & Physical NFT Art Magazine",
+    "link": "https://twitter.com/@MagNft"
+  },
+  {
+    "title": "@RocketNFT",
+    "char": "rocketnft",
+    "type": "ligature",
+    "about": "Get a loan against your digital assets (NFT). 🚀 NFTs include gold, virtual estate, digital art and more.",
+    "link": "https://twitter.com/@RocketNFT"
+  },
+  {
+    "title": "@DefiNft",
+    "char": "definft",
+    "type": "ligature",
+    "about": "DeFi NFTs on the Ethereum Blockchain!",
+    "link": "https://twitter.com/@DefiNft"
+  },
+  {
+    "title": "@NFTLootBox",
+    "char": "nftlootbox",
+    "type": "ligature",
+    "about": "NFTLootBox is a fairer and more exciting way to distribute NFTs. A fusion of NFT, DEFI and LOOTBOX Tech.",
+    "link": "https://twitter.com/@NFTLootBox"
+  },
+  {
+    "title": "@MagazineNft",
+    "char": "magazinenft",
+    "type": "ligature",
+    "about": "We are the premier magazine for crypto art. Tag us on Instagram for a chance to get featured.",
+    "link": "https://twitter.com/@MagazineNft"
+  },
+  {
+    "title": "@dNFT_protocol",
+    "char": "dnft_protocol",
+    "type": "ligature",
+    "about": "Digital rights management and royalty distribution blockchain protocol for creating disruptive trading possibilities | NFT shards.",
+    "link": "https://twitter.com/@dNFT_protocol"
+  },
+  {
+    "title": "@mintable_app",
+    "char": "mintable_app",
+    "type": "ligature",
+    "about": "A community controlled #NFT marketplace with features no other NFT marketplace has. Create & Trade NFTs easily in seconds.",
+    "link": "https://twitter.com/@mintable_app"
+  },
+  {
+    "title": "@GameswapDEX",
+    "char": "gameswapdex",
+    "type": "ligature",
+    "about": "Next-gen decentralized exchange for gaming assets. 🎮 #DeFi #NFT Powered by $GSWAP & @shroomfinance protocol",
+    "link": "https://twitter.com/@GameswapDEX"
+  },
+  {
+    "title": "@fyoozapp",
+    "char": "fyoozapp",
+    "type": "ligature",
+    "about": "Fyooz - Live, Digital, Exclusive Experiences you can’t get anywhere else & Celebrity NFT’s #Fyooz #FYZ $FYZ",
+    "link": "https://twitter.com/@fyoozapp"
+  },
+  {
+    "title": "@DeFiBench",
+    "char": "defibench",
+    "type": "ligature",
+    "about": "DeFiBench is an ecosystem of #DeFi + #NFT applications with it's own #DEX launching in Q1 2021 #DeFiTheWorld - $EDDA",
+    "link": "https://twitter.com/@DeFiBench"
+  },
+  {
+    "title": "@nftfi",
+    "char": "nftfi",
+    "type": "ligature",
+    "about": "A simple marketplace for NFT collaterized loans. Put your NFTs up as collateral for a loan, or offer loans to other users.",
+    "link": "https://twitter.com/@nftfi"
+  },
+  {
+    "title": "@boxswapio",
+    "char": "boxswapio",
+    "type": "ligature",
+    "about": "Fun on the blockchain. Check out our Wallet and NFT swaps built on @0xProject and @Ethereum.",
+    "link": "https://twitter.com/@boxswapio"
+  }
+]]
